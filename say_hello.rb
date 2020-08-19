@@ -1,8 +1,8 @@
 	def say_hello(name)
-puts "Hello Kent Beck"
+phrase= "Hello Kent Beck"
+puts phrase
 end
 
 def say_hello(name="Ruby Programmer!")
   puts ("Hello #{name}!")
 end 
-say_hello("Ruby Programmer")
