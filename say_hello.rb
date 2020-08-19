@@ -3,5 +3,5 @@ phrase= "Hello Kent Beck"
 end
 
 def say_hello(name="Ruby Programmer!")
-  puts ("Hello #{name} Kent Beck!")
+  puts ("Hello #{name}!")
 end 
